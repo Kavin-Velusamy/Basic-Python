@@ -1,7 +1,4 @@
-# Basic-Python
-I am kavin 
-Now I am started the python 
-kavin moham,,,,
-prasana
-mohan
-
+a=234
+b=365775
+c=a=b
+print(c)
