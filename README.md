@@ -7,6 +7,5 @@ xcxbb
 ,...,,>.
 kavin 
 balasd  
-sangeee
-milin
+sangee
 
